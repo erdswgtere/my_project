@@ -67,7 +67,7 @@ while answer != 'Q':
     elif answer == 'N':
         print("БАН!")
     elif answer == 'Q':
-        print("Программ завершена")
+        print("Программа завершена")
     else:
         print("Что?")
 # type, dir, help.
